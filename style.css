@@ -17,6 +17,7 @@
     border: 1px solid lightgray;
     border-radius: 5px;
     box-shadow: 0px 0px 28px 7px rgba(102,96,102,1);
+    background-color: lightgray;
 }
 
 .card-img {
